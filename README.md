@@ -110,10 +110,10 @@ Passionate about crafting dynamic web applications, collaborating with designers
 - IntelliJ IDEA, Eclipse IDE, VSCode, Jupyter Notebook, Git & GitHub  
 
 *Frameworks & Libraries:*  
-- Spring, Spring Boot, Hibernate, jQuery, Bootstrap, Tailwind CSS, React, Redux Toolkit, NextJS, MUI  
+- Spring, Spring Boot, Hibernate, jQuery, Bootstrap, Tailwind CSS, React, Redux Toolkit, NextJS, MUI, AWS, LAMBDA, IAM, EC2, RDS, CLOUDATCH, S3.
 
 *Databases:*  
-- SQL, PostgreSQL, Oracle  
+- MYSQL, PostgreSQL, Oracle  
 
 *Operating Systems:*  
 - Ubuntu, Windows, Linux  
