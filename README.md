@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Abhinav%20Prasad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Abhinav%20Prasad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%201%20YOE&descAlignY=58&descSize=20&descColor=a78bfa&animation=fadeIn" />
 
 </div>
 
@@ -9,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Associate+Software+Engineer+%40+Elexyt+Technologies;Spring+Boot+%7C+React+%7C+AWS+%7C+Docker;Building+Scalable+B2B+Marketplace+Platforms;Open+to+New+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,26 +22,64 @@
 public class Abhinav {
 
     String name        = "Abhinav Prasad";
-    String role        = "Java Full Stack Developer";
-    String location    = "Bengaluru, Karnataka 🇮🇳";
-    String education   = "B.E. CSE — Sathyabama Institute of Science & Technology (2024)";
-    String training    = "Java Full Stack — Java Learning Centre, Bengaluru (2024–Present)";
+    String role        = "Associate Software Engineer";
+    String company     = "Elexyt Technologies Pvt Ltd (Remote)";
+    String location    = "Bangalore, India 🇮🇳";
+    String education   = "B.E. CSE — Sathyabama Institute of Science & Technology (8.13 CGPA)";
     String email       = "abhinavprasad267@gmail.com";
+    int    experience  = 1; // year
 
-    String[] currentlyLearning = {
-        "Microservices Architecture",
-        "Docker & Kubernetes",
-        "DSA — Daily Practice",
-        "System Design Fundamentals"
+    String[] currentWork = {
+        "Building a full-stack B2B marketplace (500+ products, 4-role RBAC)",
+        "Designing 15+ RESTful APIs with JWT-secured Spring Boot endpoints",
+        "Optimizing React frontend — 40% faster page load via lazy loading"
     };
 
-    String[] lookingFor = { "Full-time SDE roles", "Collaborative projects" };
+    String[] techStack = {
+        "Spring Boot", "React", "AWS", "Docker", "PostgreSQL", "JWT"
+    };
 
     String funFact() {
-        return "I debug with coffee ☕ and ship with confidence 🚀";
+        return "I reduced unauthorized access incidents to zero with RBAC 🔐";
     }
 }
 ```
+
+<br/>
+
+---
+
+## 💼 Professional Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Elexyt Technologies — Associate SWE
+**📅 Sep 2025 – Present | Remote**
+
+- Built a **full-stack B2B marketplace** from scratch — 500+ products, multi-org listing
+- Architected a **4-role RBAC system** (Admin, Super Admin, Org, User) — zero unauthorized access
+- Built **React frontend** with lazy loading, cutting page load time by **40%**
+- Designed **15+ RESTful APIs** in Spring Boot with JWT-secured concurrent request handling
+
+`Spring Boot` `React` `JWT` `RBAC` `MySQL` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ MHFA India — AWS Infrastructure Intern
+**📅 Apr 2025 – Jul 2025 | Chennai**
+
+- Deployed **Moodle LMS** on Ubuntu EC2 using full LAMP stack (Linux, Apache, MySQL, PHP)
+- Integrated **Amazon RDS** for scalable, reliable MySQL database management
+- Configured **CloudWatch** monitoring and automated backups for EC2 and RDS resources
+
+`AWS EC2` `Amazon RDS` `CloudWatch` `Ubuntu` `LAMP Stack`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -56,7 +93,6 @@ public class Abhinav {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
@@ -69,58 +105,23 @@ public class Abhinav {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Databases**
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+**Databases & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools & IDEs**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
-
-<br/>
-
----
-
-## 💼 Experience
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 HCL Technologies — Project Intern
-**📅 June 2022 – December 2022 | Chennai**
-
-- Built a **Job Portal Application** using Java (JSP, Servlets) for user sign-up, login, profile management, and job listings
-- Implemented **admin panel** for posting/managing jobs with secure authentication
-- Used **JDBC + MySQL** for database operations; Bootstrap for responsive UI
-- Deployed on **Eclipse + Maven + Tomcat** with PostgreSQL for prod DB
-
-`Java` `JSP` `Servlet` `JDBC` `PostgreSQL` `Bootstrap`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Java Learning Centre — Full Stack Training
-**📅 July 2024 – Present | Bengaluru**
-
-- Advanced training in **Spring Boot**, **Microservices**, and **REST API** design
-- Deep-dive into **React.js**, **Spring Security**, **JWT authentication**
-- Building production-grade projects with end-to-end architecture
-- Practising **DSA** patterns daily for placement preparation
-
-`Spring Boot` `React` `Microservices` `MySQL` `DSA`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -133,22 +134,22 @@ public class Abhinav {
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Job Portal Application
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhi5702/Job-portal)
+### 💸 Penny Pilot — [LIVE](https://github.com/Abhi5702)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhi5702)
 
-Full-stack job portal where users can register, manage profiles, and browse listings. Admin panel for job posting & management with secure JDBC auth.
+Full-stack expense management system with JWT auth, real-time dashboards, category filters, data visualization, and automated daily email reports via **Brevo HTTP API**. Cloud deployed on Render.
 
-**Stack:** `Java` `JSP` `Servlet` `JDBC` `PostgreSQL` `Bootstrap`
+**Stack:** `Spring Boot` `React` `Docker` `PostgreSQL` `Brevo API` `Render`
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Expense Tracker
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhi5702/Expense-Tracker)
+### 🩸 Blood Bridge — [LIVE](https://github.com/Abhi5702)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhi5702)
 
-Spring Boot app with Spring Security for secure financial management. Full CRUD, expense filtering, and intuitive Thymeleaf UI.
+Full-stack blood donation platform with **multi-role RBAC** authentication, donor search, role-based dashboards, and secure access control optimized for high performance.
 
-**Stack:** `Spring Boot` `Thymeleaf` `Spring Security` `JPA` `MySQL`
+**Stack:** `Spring Boot` `React` `Bootstrap` `MySQL`
 
 </td>
 </tr>
@@ -166,12 +167,12 @@ React + Spring Boot web app for certificate issuance with role-based access, JWT
 </td>
 <td width="50%" valign="top">
 
-### 📝 E-Notes App
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/abhishekniraj802/E-NotesApp)
+### 💰 Expense Tracker
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Abhi5702/Expense-Tracker)
 
-Minimalist note-sharing app for pasting, saving, and retrieving text snippets seamlessly across devices.
+Spring Boot app with Spring Security for secure financial management, full CRUD, expense filtering, and intuitive Thymeleaf UI.
 
-**Stack:** `React` `HTML/CSS`
+**Stack:** `Spring Boot` `Thymeleaf` `Spring Security` `JPA` `MySQL`
 
 </td>
 </tr>
@@ -186,10 +187,8 @@ Minimalist note-sharing app for pasting, saving, and retrieving text snippets se
 
 | 🏅 Certification | 🏫 Issuer | 🔗 Link |
 |:---|:---|:---:|
-| Core Java | Greens Technology *(6 Weeks)* | [View ↗](https://drive.google.com/file/d/17Ck_UWE1Z57g-x9SI8WOOVj8RQficNHS/view) |
-| Best Research Paper Award | Academic — Sathyabama | [View ↗](https://drive.google.com/file/d/1TdkhRnoIkpG6698P8z8gWhgJ6MvBZwjr/view) |
-| Angular Development | Credo Systemz | [View ↗](https://drive.google.com/file/d/1Nit6-TBYu2ie8YycW4MsmFHo82PNLQDX/view) |
-| Cloud Computing | ProProfs | [View ↗](https://drive.google.com/file/d/1-1MevNqDWtHVAJdwI3B3wZuR2tK5uvjx/view) |
+| Java Full Stack Development | Java Learning Centre | [View ↗](https://drive.google.com/file/d/17Ck_UWE1Z57g-x9SI8WOOVj8RQficNHS/view) |
+| Best Research Paper Award | Sathyabama University | [View ↗](https://drive.google.com/file/d/1TdkhRnoIkpG6698P8z8gWhgJ6MvBZwjr/view) |
 
 <br/>
 
@@ -232,10 +231,10 @@ Minimalist note-sharing app for pasting, saving, and retrieving text snippets se
 
 <div align="center">
 
-**📄 [Download Resume](https://drive.google.com/file/d/1U0Xhe1iTuwVWuHLnSJUg9HAUyaIvP564/view) &nbsp;|&nbsp; 💬 Open to full-time SDE roles & collaborations**
+**📄 [Download Resume](https://drive.google.com/file/d/1U0Xhe1iTuwVWuHLnSJUg9HAUyaIvP564/view) &nbsp;|&nbsp; 💬 Open to SDE roles & collaborations**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=100&section=footer&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=100&section=footer&animation=fadeIn" />
 
 </div>
